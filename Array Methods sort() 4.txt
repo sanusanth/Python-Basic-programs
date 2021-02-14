@@ -11,3 +11,4 @@ cars = [
 cars.sort(key=myFunc)
 
 print(cars)
+// creater by Sanusanth 
