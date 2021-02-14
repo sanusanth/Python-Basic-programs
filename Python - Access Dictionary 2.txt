@@ -5,3 +5,4 @@ thisdict =	{
 }
 x = thisdict.get("model")
 print(x)
+// creater by Sanusanth 
