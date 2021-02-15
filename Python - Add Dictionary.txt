@@ -5,3 +5,4 @@ thisdict =	{
 }
 thisdict["color"] = "red"
 print(thisdict)
+// creater by Sanusanth 
