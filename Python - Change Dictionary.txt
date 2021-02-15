@@ -7,3 +7,4 @@ thisdict =	{
 thisdict["year"] = 2018
 
 print(thisdict)
+// creater by Sanusanth 
