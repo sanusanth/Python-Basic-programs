@@ -5,3 +5,4 @@ thisdict =	{
 }
 for x, y in thisdict.items():
   print(x, y)
+// creater by Sanusanth 
