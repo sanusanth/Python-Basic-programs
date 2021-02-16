@@ -5,3 +5,4 @@ thisdict =	{
 }
 thisdict.pop("model")
 print(thisdict)
+// creater by Sanusanth 
