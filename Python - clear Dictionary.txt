@@ -5,3 +5,4 @@ thisdict =	{
 }
 thisdict.clear()
 print(thisdict)
+//creater by Sanusanth 
